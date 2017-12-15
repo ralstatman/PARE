@@ -1,6 +1,6 @@
 # R code supplement for  Practical Assessment, Research, and Evaluation article:  
 # "Random Forest as a Predictive Analytics Alternative to Regression in Institutional Research" 
-# by Anna He, Rich Levine, Josh Beemer, Juanjuan Fan, and Jeanne Stronach
+# by Lingjun He, Richard Levine, Josh Beemer, Juanjuan Fan, and Jeanne Stronach
 
 December 14, 2017
 

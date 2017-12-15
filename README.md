@@ -8,7 +8,7 @@ There are four pieces of R codes for this paper.
 
 Subgroup analysis R code: 
 
-   The R code below was used to conduct the subgroup analysis (large p - scenario 1, Section 3.1, Figure 1, Table 1).
+  &nbsp; The R code below was used to conduct the subgroup analysis (large p - scenario 1, Section 3.1, Figure 1, Table 1).
  
 Simulation R code: 
 

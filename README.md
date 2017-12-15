@@ -2,7 +2,7 @@
 # "Random Forest as a Predictive Analytics Alternative to Regression in Institutional Research" 
 # by Anna He, Rich Levine, Josh Beemer, Juanjuan Fan, and Jeanne Stronach
 
-December 14, 2017
+December 14, 2017 \\
 There are four pieces of R codes for this paper. 
 
 Subgroup analysis R code: 

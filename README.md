@@ -12,15 +12,15 @@ Subgroup analysis R code:
  
 Simulation R code: 
 
-   The R code below was used to conduct the simulation study on variable importance (Section 3.2, Table 1, Figure 2-4).
+    &nbsp;The R code below was used to conduct the simulation study on variable importance (Section 3.2, Table 1, Figure 2-4).
 
 Interpretation case analysis R code: 
    
-   The R code below was used to conduct the analysis (large p -scenario 2, Section 3.3, Figure 5, Table 2).
+    &nbsp;The R code below was used to conduct the analysis (large p -scenario 2, Section 3.3, Figure 5, Table 2).
  
 Imbalanced data analysis R code: 
 
-   The R code below was used to conduct real case analysis on imbalanced outcome data (Section 3.4, Figure 7, Table 3).
+    &nbsp;The R code below was used to conduct real case analysis on imbalanced outcome data (Section 3.4, Figure 7, Table 3).
  
 The single tree visualization in the paper was conducted in the R package rattle, code at bottom of this file
 
